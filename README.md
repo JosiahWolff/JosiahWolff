@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is Josiah Wolff, and I am currently a student at TripleTen.
+
+I have learned HTML, CSS, flexbox, grid layout, BEM, transition, DOM, Git, Git/hub, VS code, figma and will finish the course in May. I am currently working on Javascript, Debugging, figma, form validation, OOP, webpack, NPM React, react components, react hooks, node.js, express.js, database, API, and microsoft azure cloud. 
+
+
 
 <!--
 **josiah3311/josiah3311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
