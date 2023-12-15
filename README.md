@@ -22,6 +22,11 @@ I'm a full stack web development student. I love seeing a job get done and fixin
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=josiah3311&show_icons=true&count_private=true)](https://github.com/josiah3311)
 
+<h2>Projects</h2>
+
+<h3>Practicum Library</h3>
+
+
 <!--
 **josiah3311/josiah3311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
