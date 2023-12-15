@@ -74,6 +74,9 @@ This is the third project of the Software Engineering program at TripleTen. It w
 
 [Around the U.S.](https://JosiahWolff.github.io/se_project_aroundtheus-main)
 
+<h4>Works In Progress</h4>
+I am not yet finished with this project. I am adding more functionality, cleaning up code, and have plans to improve how the page looks and and runs.
+
 <h2>Contact Info</h2>
 
 [LinkedIn Profile](https://linkedin.com/in/josiah-wolff)
