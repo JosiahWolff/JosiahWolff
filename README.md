@@ -75,7 +75,8 @@ This is the third project of the Software Engineering program at TripleTen. It w
 [Around the U.S.](https://JosiahWolff.github.io/se_project_aroundtheus-main)
 
 <h2>Contact Info</h2>
-(https://linkedin.com/in/josiah-wolff)
+
+[![LinkedIn]([https://example.com/linkedin-logo.png](https://camo.githubusercontent.com/cdb6e929b92ee0f639a46dedc0f4568bbd69d41a0947f39d153e3e273a249b3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465))](https://linkedin.com/in/josiah-wolff)
 
 <!--
 **josiah3311/josiah3311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
