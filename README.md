@@ -1,4 +1,4 @@
-<h1>Hi 👋, my name is Josiah Wolff, and I am currently a student at TripleTen.</h1>
+<h1>Hi 👋, my name is Josiah Wolff.</h1>
 I'm a full stack web development student. I love seeing a job get done and fixing things!
 
 <h2>More About me</h2>
