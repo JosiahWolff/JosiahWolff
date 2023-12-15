@@ -1,7 +1,7 @@
 <h1>Hi there 👋, my name is Josiah Wolff, and I am currently a student at TripleTen.</h1>
+I'm a full stack web development student. I love seeing a job get done and fixing things!
 
-I have learned HTML, CSS, flexbox, grid layout, BEM, transition, DOM, Git, Git/hub, VS code, figma and will finish the course in May. I am currently working on Javascript, Debugging, figma, form validation, OOP, webpack, NPM React, react components, react hooks, node.js, express.js, database, API, and microsoft azure cloud. 
-
+<h2></h2>
 
 
 <!--
