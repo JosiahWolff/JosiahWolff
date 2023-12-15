@@ -29,32 +29,32 @@ I'm a full stack web development student. I love seeing a job get done and fixin
 The Triple Peaks Library webpage is the first project in the Software Engineer program at TripleTen. It was created using HTML and CSS, based on a design brief.
 
 <h4>Project features</h4>
-- Semantic HTML5
-- Flexbox
-- Positioning
-- Vertical stacking with z-index
+<li>Semantic HTML5</li>
+<li>Flexbox</li>
+<li>Positioning</li>
+<li>Vertical stacking with z-index</li>
 
 <h3>Triple Peaks Coffee Shop</h3>
 
 This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
 
 <h4>Project features</h4>
-- Semantic HTML5
-- Flexbox
-- Positioning
-- Flat BEM file structure
-- A custom form
-- CSS animation and transform
+<li>Semantic HTML5</li>
+<li>Flexbox</li>
+<li>Positioning</li>
+<li>Flat BEM file structure</li>
+<li>A custom form</li>
+<li>CSS animation and transform</li>
 
 <h3>Around The U.S.</h3>
 
 This is the third project of the Software Engineering program at TripleTen. It was created using HTML, CSS, and JavaScript, based off a figma design.
 
 <h4>Project Features</h4>
--HTML
--CSS
--JavaScript
--Figma
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Figma</li>
 
 
 
