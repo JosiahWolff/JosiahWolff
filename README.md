@@ -24,7 +24,7 @@ I'm a full stack web development student. I love seeing a job get done and fixin
 
 <h2>Projects</h2>
 
-<h3>Practicum Library</h3>
+<h3>Triple Peaks Library</h3>
 
 
 <!--
