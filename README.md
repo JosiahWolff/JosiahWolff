@@ -2,12 +2,25 @@
 I'm a full stack web development student. I love seeing a job get done and fixing things!
 
 <h2>More About me</h2>
+
 <ul>
 <li>🎓 Studying Full Stack Web Development at [https://tripleten.com/]</li>
-  
-  <li>📍 Currently located in Arkansas</li>
+  <li>🏀 I love sports and staying active</li>
+  <li>📍 Currently located in AR, USA</li>
 </ul>
 
+<h2>Skills</h2>
+
+<ul>
+  <li>Visual Studio Code</li>
+  <li>🔧 Figma (UI/UX Desgin)</li>
+  <li>💻 📱 Front-End Development (HTML5, CSS3, JavaScript, React)</li>
+  <li>⚛️ React</li>
+</ul>
+
+<h2>GitHub Stats</h2>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=josiah3311&show_icons=true&count_private=true)](https://github.com/josiah3311)
 
 <!--
 **josiah3311/josiah3311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
