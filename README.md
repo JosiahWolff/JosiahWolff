@@ -47,6 +47,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 <li>A custom form</li>
 <li>CSS animation and transform</li>
 
+[Website](https://JosiahWolff.github.io/se_project_coffeeshop)
 <h3>Around The U.S.</h3>
 
 This is the third project of the Software Engineering program at TripleTen. It was created using HTML, CSS, and JavaScript, based off a figma design.
