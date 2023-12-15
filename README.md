@@ -75,7 +75,7 @@ This is the third project of the Software Engineering program at TripleTen. It w
 [Around the U.S.](https://JosiahWolff.github.io/se_project_aroundtheus-main)
 
 <h2>Contact Info</h2>
-(linkedin.com/in/josiah-wolff)
+(https://linkedin.com/in/josiah-wolff)
 
 <!--
 **josiah3311/josiah3311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
