@@ -28,7 +28,7 @@ I'm a full stack web development student. I love seeing a job get done and fixin
 
 The Triple Peaks Library webpage is the first project in the Software Engineer program at TripleTen. It was created using HTML and CSS, based on a design brief.
 
-# Project features
+<h4>Project features</h4>
 
 - Semantic HTML5
 - Flexbox
