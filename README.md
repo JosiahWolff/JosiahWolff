@@ -34,6 +34,7 @@ The Triple Peaks Library webpage is the first project in the Software Engineer p
 <li>Positioning</li>
 <li>Vertical stacking with z-index</li>
 
+[se_project_library](https://github.com/JosiahWolff/se_project_library)
 <h3>Triple Peaks Coffee Shop</h3>
 
 This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
