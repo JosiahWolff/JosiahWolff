@@ -34,7 +34,7 @@ The Triple Peaks Library webpage is the first project in the Software Engineer p
 <li>Positioning</li>
 <li>Vertical stacking with z-index</li>
 
-[Website](https://JosiahWolff.github.io/se_project_library)
+[The Triple Peaks Library](https://JosiahWolff.github.io/se_project_library)
 <h3>Triple Peaks Coffee Shop</h3>
 
 This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
@@ -47,7 +47,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 <li>A custom form</li>
 <li>CSS animation and transform</li>
 
-[Website](https://JosiahWolff.github.io/se_project_coffeeshop)
+[The Triple Peaks Coffee Shop](https://JosiahWolff.github.io/se_project_coffeeshop)
 <h3>Around The U.S.</h3>
 
 This is the third project of the Software Engineering program at TripleTen. It was created using HTML, CSS, and JavaScript, based off a figma design.
@@ -58,7 +58,7 @@ This is the third project of the Software Engineering program at TripleTen. It w
 <li>JavaScript</li>
 <li>Figma</li>
 
-
+[Around the U.S.](https://JosiahWolff.github.io/se_project_aroundtheus-main)
 
 
 
