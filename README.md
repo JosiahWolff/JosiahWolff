@@ -24,8 +24,16 @@ I'm a full stack web development student. I love seeing a job get done and fixin
 
 <h2>Projects</h2>
 
-<h3>Triple Peaks Library</h3>
+<h3>Practicum/Triple Peaks Library</h3>
 
+The Triple Peaks Library webpage is the first project in the Software Engineer program at TripleTen. It was created using HTML and CSS, based on a design brief.
+
+# Project features
+
+- Semantic HTML5
+- Flexbox
+- Positioning
+- Vertical stacking with z-index
 
 <!--
 **josiah3311/josiah3311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
