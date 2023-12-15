@@ -1,7 +1,12 @@
-<h1>Hi there 👋, my name is Josiah Wolff, and I am currently a student at TripleTen.</h1>
+<h1>Hi 👋, my name is Josiah Wolff, and I am currently a student at TripleTen.</h1>
 I'm a full stack web development student. I love seeing a job get done and fixing things!
 
-<h2></h2>
+<h2>More About me</h2>
+<ul>
+<li>🎓 Studying Full Stack Web Development at [https://tripleten.com/]</li>
+  
+  <li>📍 Currently located in Arkansas</li>
+</ul>
 
 
 <!--
