@@ -36,7 +36,9 @@ The Triple Peaks Library webpage is the first project in the Software Engineer p
 <li>Vertical stacking with z-index</li>
 </ul>
 
-<h4>[The Triple Peaks Library](https://JosiahWolff.github.io/se_project_library)</h4>
+<h4></h4>
+
+[The Triple Peaks Library](https://JosiahWolff.github.io/se_project_library)
 
 <h3>Triple Peaks Coffee Shop</h3>
 
@@ -52,7 +54,9 @@ This is the second project of the Software Engineering program at TripleTen. It 
 <li>CSS animation and transform</li>
 </ul>
 
-<h4>[The Triple Peaks Coffee Shop](https://JosiahWolff.github.io/se_project_coffeeshop)</h4>
+<h4></h4>
+
+[The Triple Peaks Coffee Shop](https://JosiahWolff.github.io/se_project_coffeeshop)
 
 <h3>Around The U.S.</h3>
 
@@ -66,7 +70,9 @@ This is the third project of the Software Engineering program at TripleTen. It w
 <li>Figma</li>
 </ul>
 
-<h4>[Around the U.S.](https://JosiahWolff.github.io/se_project_aroundtheus-main)</h4>
+<h4></h4>
+
+[Around the U.S.](https://JosiahWolff.github.io/se_project_aroundtheus-main)
 
 
 
