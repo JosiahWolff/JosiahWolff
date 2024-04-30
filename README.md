@@ -24,7 +24,7 @@ I'm a full stack web development student. I love seeing a job get done and fixin
 
 <h2>Projects</h2>
 
-<h3>Practicum/Triple Peaks Library</h3>
+<h3>Triple Peaks Library</h3>
 
 The Triple Peaks Library webpage is the first project in the Software Engineer program at TripleTen. It was created using HTML and CSS, based on a design brief.
 
@@ -70,13 +70,33 @@ This is the third project of the Software Engineering program at TripleTen. It w
 <li>Figma</li>
 </ul>
 
-<h4></h4>
-
 [Around the U.S.](https://JosiahWolff.github.io/se_project_aroundtheus-main)
 
-<h4>Works In Progress</h4>
-I am not yet finished with this project. I am adding more functionality, cleaning up code, and have plans to improve how the page looks and and runs.
+<h3>What to Wear</h3>
 
+This project uses a weather api to get the current weather and display clothing items based on it. This project also has the ability for the user to make a a card with a clothing item and set it for specific weather. This project also contains a connected back end proejct that is listed right after this.
+
+<h4>Project Features</h4>
+<ul>
+  <li>React</li>
+  <li>JavaScript</li>
+  <li>CSS</li>
+  <li>figma</li>
+</ul>
+
+[What To Wear](https://github.com/JosiahWolff/se_project_react)
+<h3>What to Wear Back-End</h3>
+
+This project is the %90 functionality of the What to Wear website. It allows the user to make an account, login, add, delete, and save clothing items to a server.
+
+<h4>Project Features</h4>
+<ul>
+  <li>JavaScript</li>
+  <li>Node.js</li>
+  <li>Express.js</li>
+</ul>
+
+[WTWR Back-end](https://github.com/JosiahWolff/se_project_express)
 <h2>Contact Info</h2>
 
 [LinkedIn Profile](https://linkedin.com/in/josiah-wolff)
