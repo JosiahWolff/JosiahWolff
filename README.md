@@ -74,7 +74,9 @@ This is the third project of the Software Engineering program at TripleTen. It w
 <li>Figma</li>
 </ul>
 
-[Around the U.S.](https://JosiahWolff.github.io/se_project_aroundtheus-main)
+[GitHub Repository](https://JosiahWolff.github.io/se_project_aroundtheus-main)
+
+[Active Site](https://josiahwolff.github.io/se_project_aroundtheus/)
 
 <h3>What to Wear</h3>
 
@@ -89,6 +91,7 @@ This project uses a weather api to get the current weather and display clothing 
 </ul>
 
 [What To Wear](https://github.com/JosiahWolff/se_project_react)
+
 <h3>What to Wear Back-End</h3>
 
 This project is the %90 functionality of the What to Wear website. It allows the user to make an account, login, add, delete, and save clothing items to a server.
@@ -101,6 +104,7 @@ This project is the %90 functionality of the What to Wear website. It allows the
 </ul>
 
 [WTWR Back-end](https://github.com/JosiahWolff/se_project_express)
+
 <h2>Contact Info</h2>
 
 [LinkedIn Profile](https://linkedin.com/in/josiah-wolff)
