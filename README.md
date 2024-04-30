@@ -20,7 +20,7 @@ I'm a full stack web development student. I love seeing a job get done and fixin
 
 <h2>GitHub Stats</h2>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=josiah3311&show_icons=true&count_private=true)](https://github.com/josiah3311)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=josiah3311)](https://github.com/josiah3311/github-readme-stats)
 
 <h2>Projects</h2>
 
