@@ -74,7 +74,7 @@ This is the third project of the Software Engineering program at TripleTen. It w
 <li>Figma</li>
 </ul>
 
-[GitHub Repository](https://JosiahWolff.github.io/se_project_aroundtheus-main)
+[GitHub Repository](https://github.com/JosiahWolff/se_project_aroundtheus)
 
 [Active Site](https://josiahwolff.github.io/se_project_aroundtheus/)
 
