@@ -97,7 +97,7 @@ This project uses a weather api to get the current weather and display clothing 
 
 <h3>What to Wear Back-End</h3>
 
-This project is the %90 functionality of the What to Wear website. It allows the user to make an account, login, add, delete, and save clothing items to a server.
+This project is %90 of the functionality of the What to Wear website. It allows the user to make an account, login, add, delete, and save clothing items to a server.
 
 <h4>Project Features</h4>
 <ul>
@@ -112,7 +112,7 @@ This project is the %90 functionality of the What to Wear website. It allows the
 
 [LinkedIn Profile](https://linkedin.com/in/josiah-wolff)
 
-[FaceBook Profile](https://www.facebook.com/profile.php?id=1000083902590789&mibextid=LQQJ4d)
+[FaceBook Profile](https://www.facebook.com/Josiah Wolff)
 
 <!--
 **josiah3311/josiah3311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
