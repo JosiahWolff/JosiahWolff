@@ -88,6 +88,7 @@ This project uses a weather api to get the current weather and display clothing 
   <li>React</li>
   <li>JavaScript</li>
   <li>CSS</li>
+  <li>API</li>
   <li>figma</li>
 </ul>
 
@@ -107,6 +108,23 @@ This project is %90 of the functionality of the What to Wear website. It allows 
 </ul>
 
 [GitHub Repository](https://github.com/JosiahWolff/se_project_express)
+
+<h3>SkySongs</h3>
+
+This project uses two different API's, a spotify API, and a weather API. This project finds songs based on the weather to try and match the mood/vibe. There is also a search section where a user can search spotifys library and find songs with their author,album, and the valence of the song. Valence describes the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry). This is how I filtered songs to match the weather.
+I would also like to add a back-end to this project so a user can make an account and maybe even link their spotify account to deliver a more personalized experience. It would also give them the ability to save songs to a new section of the website.
+
+<h4>Project Features</h4>
+<ul>
+  <li>JavaScript</li>
+  <li>CSS</li>
+  <li>React</li>
+  <li>API</li>
+</ul>
+
+[GitHub Repository](https://github.com/JosiahWolff/SkySongs-frontend)
+
+[Active Site](https://josiahwolff.github.io/SkySongs-frontend)
 
 <h2>Contact Info</h2>
 
