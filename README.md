@@ -112,6 +112,8 @@ This project is the %90 functionality of the What to Wear website. It allows the
 
 [LinkedIn Profile](https://linkedin.com/in/josiah-wolff)
 
+[FaceBook Profile](https://www.facebook.com/profile.php?id=1000083902590789&mibextid=LQQJ4d)
+
 <!--
 **josiah3311/josiah3311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
