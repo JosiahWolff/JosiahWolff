@@ -25,7 +25,7 @@ I'm a full stack web development student. I love seeing a job get done and fixin
 
 <h2>Projects</h2>
 
-<h3>Triple Peaks Library</h3>
+<h3>📚Triple Peaks Library</h3>
 
 The Triple Peaks Library webpage is the first project in the Software Engineer program at TripleTen. It was created using HTML and CSS, based on a design brief.
 
@@ -43,7 +43,7 @@ The Triple Peaks Library webpage is the first project in the Software Engineer p
 
 [Active Site](https://JosiahWolff.github.io/se_project_library/)
 
-<h3>Triple Peaks Coffee Shop</h3>
+<h3>☕Triple Peaks Coffee Shop</h3>
 
 This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
 
@@ -63,7 +63,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 [Active Site](https://josiahwolff.github.io/se_project_coffeeshop/)
 
-<h3>Around The U.S.</h3>
+<h3>🌄Around The U.S.</h3>
 
 This is the third project of the Software Engineering program at TripleTen. It was created using HTML, CSS, and JavaScript, based off a figma design.
 
@@ -79,7 +79,7 @@ This is the third project of the Software Engineering program at TripleTen. It w
 
 [Active Site](https://josiahwolff.github.io/se_project_aroundtheus/)
 
-<h3>What to Wear</h3>
+<h3>☁️What to Wear</h3>
 
 This project uses a weather api to get the current weather and display clothing items based on it. This project also has the ability for the user to make a a card with a clothing item and set it for specific weather. This project also contains a connected back end proejct that is listed right after this.
 
