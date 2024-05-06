@@ -90,7 +90,7 @@ This project uses a weather api to get the current weather and display clothing 
   <li>figma</li>
 </ul>
 
-[What To Wear](https://github.com/JosiahWolff/se_project_react)
+[GitHub Repository](https://github.com/JosiahWolff/se_project_react)
 
 [Active Site](https://wtwrByJosiah3311.crabdance.com)
 
@@ -105,7 +105,7 @@ This project is the %90 functionality of the What to Wear website. It allows the
   <li>Express.js</li>
 </ul>
 
-[WTWR Back-end](https://github.com/JosiahWolff/se_project_express)
+[GitHub Repository](https://github.com/JosiahWolff/se_project_express)
 
 <h2>Contact Info</h2>
 
