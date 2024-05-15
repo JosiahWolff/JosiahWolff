@@ -39,9 +39,9 @@ The Triple Peaks Library webpage is the first project in the Software Engineer p
 
 <h4></h4>
 
-[GitHub Repository](https://github.com/JosiahWolff/se_project_library)
+[GitHub Repository](https://github.com/JosiahWolff/se_project_library1)
 
-[Active Site](https://JosiahWolff.github.io/se_project_library/)
+[Active Site](https://JosiahWolff.github.io/se_project_library1/)
 
 <h3>☕Triple Peaks Coffee Shop</h3>
 
