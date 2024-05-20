@@ -131,7 +131,7 @@ I would also like to add a back-end to this project so a user can make an accoun
 
 [LinkedIn Profile](https://linkedin.com/in/josiah-wolff)
 
-📫G-Mail: josiahjaw0@gmail.com
+📫G-Mail: josiahwolff3@gmail.com
 
 <!--
 **josiah3311/josiah3311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
