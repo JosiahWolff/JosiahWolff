@@ -4,7 +4,7 @@ I'm a full stack web development student. I love seeing a job get done and fixin
 <h2>More About me</h2>
 
 <ul>
-  <li>🎓 Full Stack Web Development Graduate from [TripleTen](https://tripleten.com/) </li>
+  <li>🎓 Full Stack Web Development Graduate from https://tripleten.com/ </li>
   <li>🏀 I love sports and staying active</li>
   <li>🔨 I enjoy voluteering and have been on multiple international mision trips</li>
   <li>📍 Currently located in AR, USA</li>
