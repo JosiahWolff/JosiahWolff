@@ -1,5 +1,5 @@
 <h1>Hi 👋, my name is Josiah Wolff.</h1>
-I'm a full stack web development student. I love seeing a job get done and fixing things!
+I'm a full stack software engineer and I love seeing a job get done and fixing things!
 
 <h2>More About me</h2>
 
@@ -19,10 +19,6 @@ I'm a full stack web development student. I love seeing a job get done and fixin
   <li>⚙️ 🛡️Back-End Development (Node.js, Express.js, mongo.db, postman)</li>
   <li>⚛️ React</li>
 </ul>
-
-<h2>GitHub Stats</h2>
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JosiahWolff)](https://github.com/JosiahWolff/github-readme-stats)
 
 <h2>Projects</h2>
 
