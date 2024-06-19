@@ -15,7 +15,7 @@ I'm a driven full stack software engineer and I love seeing a job get done and f
 <ul>
   <li>Visual Studio Code</li>
   <li>🔧 Figma (UI/UX Desgin)</li>
-  <li>💻 📱 Front-End Development (HTML5, CSS3, JavaScript, React)</li>
+  <li>💻 📱 Front-End Development (HTML5, CSS3, JavaScript, React, API's)</li>
   <li>⚙️ 🛡️Back-End Development (Node.js, Express.js, mongo.db, postman)</li>
   <li>⚛️ React</li>
 </ul>
