@@ -1,5 +1,5 @@
 <h1>Hi 👋, my name is Josiah Wolff.</h1>
-I'm a full stack software engineer and I love seeing a job get done and fixing things!
+I'm a driven full stack software engineer and I love seeing a job get done and fixing things! Since I was little I loved building and creating things. I always loved the idea of being able to create whatever you wanted and solving problems along the way, and what better place to do it than on the biggest stage in the world, the internet. Then in middle school, I was introduced to software engineering, and I've always been interested since, and have been open to opportunities to contribute to it.
 
 <h2>More About me</h2>
 
